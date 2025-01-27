@@ -1,0 +1,20 @@
+User ID: 11qwe
+ISBN: 123
+Borrow Date: 2024-12-24
+Return Date: 2024-12-24
+--------------------------
+User ID: sdfgqs
+ISBN: 123
+Borrow Date: 2024-12-25
+Return Date: 2024-12-26
+--------------------------
+User ID: user
+ISBN: 4321
+Borrow Date: 2024-12-25
+Return Date: 2024-12-25
+--------------------------
+User ID: 4325
+ISBN: 234
+Borrow Date: 2025-01-02
+Return Date: 2025-01-03
+--------------------------
