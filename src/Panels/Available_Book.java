@@ -111,6 +111,7 @@ public class Available_Book extends JPanel {
             e.printStackTrace();
         }
     }
+    
 
     private void addBook() {
         String bookName = nameField.getText().trim();
